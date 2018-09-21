@@ -17,4 +17,4 @@
 [openvpn 服务器搭建，通过UDP 53 端口上网](https://www.jianshu.com/p/822931d3d784)
 
 
-[url-webAuth]:  http://dhtmlx.com/
+[url-webAuth]:  https://github.com/Umbrellazc/BypassCampusNet/blob/master/doc/bypass_webAuth.md
