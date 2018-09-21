@@ -30,6 +30,7 @@ make
 4.安装
 
 3个选项都选"1. Yes"
+
 ![](https://i.imgur.com/3TDOnR6.png)
 
 5.配置服务
